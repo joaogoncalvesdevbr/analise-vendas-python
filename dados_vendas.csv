@@ -1,0 +1,501 @@
+﻿ID,Data,Cliente,Cidade,Estado,Produto,Categoria,Quantidade,Preço Unitário,Desconto (%),Receita,Lucro,Vendedor,Pagamento,Mês,Nome do Mês,Ano
+1,2025-03-13,Elaine Duarte,Rio de Janeiro,RJ,Tablet,Mobile,1,2100,10,1890.0,734.79,Mariana,Pix,3,Março,2025
+2,2025-04-30,Henrique Duarte,Recife,PE,Impressora,Escritório,1,870,0,870.0,371.12,Carlos,Cartão de Crédito,4,Abril,2025
+3,2025-05-23,João Silva,Brasília,DF,Smartphone,Mobile,4,3200,5,12160.0,4106.4,Felipe,Boleto,5,Maio,2025
+4,2025-06-22,Carlos Souza,Porto Alegre,RS,HD Externo,Armazenamento,2,430,5,817.0,172.14,Mariana,Boleto,6,Junho,2025
+5,2025-08-24,Igor Mendes,Salvador,BA,Mouse Gamer,Periféricos,3,180,10,486.0,120.63,Mariana,Boleto,8,Agosto,2025
+6,2025-12-27,Lucas Ferreira,Brasília,DF,Mouse Gamer,Periféricos,3,180,10,486.0,148.55,Carlos,Cartão de Crédito,12,Dezembro,2025
+7,2025-08-21,Arthur Monteiro,Rio de Janeiro,RJ,SSD 1TB,Armazenamento,2,520,0,1040.0,369.17,Patrícia,Cartão de Crédito,8,Agosto,2025
+8,2025-12-16,Cláudia Figueiredo,Salvador,BA,HD Externo,Armazenamento,2,430,10,774.0,212.5,Mariana,Cartão de Crédito,12,Dezembro,2025
+9,2025-11-24,Samuel Cunha,Curitiba,PR,Cadeira Gamer,Móveis,2,1650,15,2805.0,996.16,Juliana,Cartão de Débito,11,Novembro,2025
+10,2025-02-03,Larissa Melo,Curitiba,PR,Notebook,Informática,1,4200,10,3780.0,1321.9,Patrícia,Cartão de Crédito,2,Fevereiro,2025
+11,2025-03-13,Amanda Cardoso,Fortaleza,CE,Tablet,Mobile,4,2100,15,7140.0,2957.97,Renato,Boleto,3,Março,2025
+12,2025-03-12,Henrique Duarte,Recife,PE,Impressora,Escritório,3,870,5,2479.5,497.56,Camila,Pix,3,Março,2025
+13,2025-08-05,Murilo Farias,Rio de Janeiro,RJ,Notebook,Informática,2,4200,5,7980.0,2010.8,Mariana,Boleto,8,Agosto,2025
+14,2025-01-06,Letícia Ramos,Campinas,SP,Headset,Áudio,4,290,10,1044.0,216.35,Mariana,Cartão de Débito,1,Janeiro,2025
+15,2025-08-21,João Silva,Salvador,BA,Tablet,Mobile,1,2100,10,1890.0,645.07,Renato,Cartão de Crédito,8,Agosto,2025
+16,2025-03-24,Igor Mendes,Rio de Janeiro,RJ,Cadeira Gamer,Móveis,3,1650,5,4702.5,1936.44,Carlos,Cartão de Débito,3,Março,2025
+17,2025-06-07,Amanda Cardoso,São Paulo,SP,Webcam,Periféricos,1,240,10,216.0,49.75,Carlos,Cartão de Crédito,6,Junho,2025
+18,2025-09-30,Priscila Gomes,Rio de Janeiro,RJ,Impressora,Escritório,1,870,15,739.5,181.91,Felipe,Cartão de Crédito,9,Setembro,2025
+19,2025-11-07,Aline Moura,Fortaleza,CE,Tablet,Mobile,5,2100,5,9975.0,3827.77,Juliana,Cartão de Crédito,11,Novembro,2025
+20,2025-09-22,Leonardo Vieira,Porto Alegre,RS,Smartphone,Mobile,4,3200,10,11520.0,3922.27,Mariana,Cartão de Crédito,9,Setembro,2025
+21,2025-04-28,Luana Ribeiro,Rio de Janeiro,RJ,Monitor 24,Monitores,3,980,0,2940.0,890.59,Juliana,Pix,4,Abril,2025
+22,2025-06-19,Lucas Ferreira,São Paulo,SP,Mouse Gamer,Periféricos,2,180,0,360.0,80.51,Juliana,Cartão de Débito,6,Junho,2025
+23,2025-10-20,Caio Peixoto,Fortaleza,CE,Tablet,Mobile,2,2100,5,3990.0,1073.96,Camila,Cartão de Crédito,10,Outubro,2025
+24,2025-08-09,Renato Freitas,Recife,PE,Webcam,Periféricos,2,240,0,480.0,204.37,Eduardo,Boleto,8,Agosto,2025
+25,2025-06-23,Carlos Souza,São Paulo,SP,Webcam,Periféricos,1,240,0,240.0,83.84,Juliana,Cartão de Crédito,6,Junho,2025
+26,2025-05-23,Beatriz Campos,Brasília,DF,Monitor 24,Monitores,4,980,5,3724.0,1283.03,Juliana,Pix,5,Maio,2025
+27,2025-10-04,João Silva,Brasília,DF,Webcam,Periféricos,1,240,0,240.0,68.87,Mariana,Cartão de Crédito,10,Outubro,2025
+28,2025-07-25,Ana Costa,Recife,PE,Teclado Mecânico,Periféricos,4,350,15,1190.0,471.91,Felipe,Boleto,7,Julho,2025
+29,2025-12-23,Victor Braga,Recife,PE,Notebook,Informática,3,4200,15,10710.0,4055.75,Camila,Cartão de Crédito,12,Dezembro,2025
+30,2025-10-05,Ana Costa,Porto Alegre,RS,Monitor 24,Monitores,2,980,0,1960.0,598.2,Patrícia,Pix,10,Outubro,2025
+31,2025-09-18,Juliana Almeida,Campinas,SP,Notebook,Informática,4,4200,5,15960.0,6955.05,Felipe,Pix,9,Setembro,2025
+32,2025-10-19,Amanda Cardoso,Rio de Janeiro,RJ,Impressora,Escritório,2,870,15,1479.0,621.22,Carlos,Pix,10,Outubro,2025
+33,2025-04-15,Daniel Aguiar,Campinas,SP,Headset,Áudio,5,290,10,1305.0,282.3,Patrícia,Cartão de Crédito,4,Abril,2025
+34,2025-02-07,João Silva,Recife,PE,SSD 1TB,Armazenamento,2,520,10,936.0,314.21,Camila,Pix,2,Fevereiro,2025
+35,2025-06-28,Lucas Ferreira,Brasília,DF,Mouse Gamer,Periféricos,2,180,10,324.0,135.07,Juliana,Cartão de Débito,6,Junho,2025
+36,2025-12-01,Natália Barros,Belo Horizonte,MG,SSD 1TB,Armazenamento,4,520,10,1872.0,556.13,Carlos,Cartão de Débito,12,Dezembro,2025
+37,2025-02-24,Elaine Duarte,Rio de Janeiro,RJ,Tablet,Mobile,2,2100,10,3780.0,1591.92,Felipe,Cartão de Débito,2,Fevereiro,2025
+38,2025-11-21,Gustavo Nunes,Campinas,SP,SSD 1TB,Armazenamento,2,520,10,936.0,373.56,Camila,Cartão de Débito,11,Novembro,2025
+39,2025-06-20,Priscila Gomes,Rio de Janeiro,RJ,Notebook,Informática,4,4200,10,15120.0,6637.35,Felipe,Cartão de Débito,6,Junho,2025
+40,2025-02-27,Lucas Ferreira,Fortaleza,CE,Teclado Mecânico,Periféricos,5,350,15,1487.5,460.79,Felipe,Pix,2,Fevereiro,2025
+41,2025-01-22,Isabela Fernandes,Campinas,SP,HD Externo,Armazenamento,5,430,5,2042.5,699.67,Patrícia,Pix,1,Janeiro,2025
+42,2025-10-14,Thiago Rezende,Curitiba,PR,HD Externo,Armazenamento,2,430,0,860.0,310.96,Felipe,Cartão de Crédito,10,Outubro,2025
+43,2025-06-20,Thiago Rezende,Belo Horizonte,MG,Teclado Mecânico,Periféricos,4,350,0,1400.0,567.22,Juliana,Cartão de Débito,6,Junho,2025
+44,2025-04-24,Eduardo Barbosa,Rio de Janeiro,RJ,Teclado Mecânico,Periféricos,4,350,0,1400.0,329.49,Camila,Cartão de Débito,4,Abril,2025
+45,2025-07-24,Mariana Alves,Curitiba,PR,SSD 1TB,Armazenamento,2,520,0,1040.0,296.39,Renato,Pix,7,Julho,2025
+46,2025-10-02,Mariana Alves,Salvador,BA,SSD 1TB,Armazenamento,5,520,15,2210.0,619.07,Carlos,Pix,10,Outubro,2025
+47,2025-11-02,Aline Moura,Belo Horizonte,MG,SSD 1TB,Armazenamento,5,520,10,2340.0,1030.62,Patrícia,Cartão de Débito,11,Novembro,2025
+48,2025-10-23,Eduardo Barbosa,Campinas,SP,Headset,Áudio,5,290,0,1450.0,512.87,Renato,Pix,10,Outubro,2025
+49,2025-02-05,Daniel Aguiar,Recife,PE,Smartphone,Mobile,1,3200,5,3040.0,1091.19,Patrícia,Cartão de Débito,2,Fevereiro,2025
+50,2025-06-17,Paula Castro,Rio de Janeiro,RJ,Tablet,Mobile,3,2100,10,5670.0,1606.18,Renato,Cartão de Crédito,6,Junho,2025
+51,2025-06-04,Paula Castro,Recife,PE,Monitor 24,Monitores,4,980,5,3724.0,1102.76,Carlos,Cartão de Débito,6,Junho,2025
+52,2025-08-15,Letícia Ramos,Curitiba,PR,SSD 1TB,Armazenamento,4,520,10,1872.0,624.79,Juliana,Boleto,8,Agosto,2025
+53,2025-11-21,Sabrina Pires,Belo Horizonte,MG,Smartphone,Mobile,1,3200,10,2880.0,924.87,Patrícia,Pix,11,Novembro,2025
+54,2025-01-24,Amanda Cardoso,Porto Alegre,RS,Monitor 24,Monitores,2,980,5,1862.0,769.31,Camila,Pix,1,Janeiro,2025
+55,2025-07-16,Gabriela Lopes,Recife,PE,Webcam,Periféricos,5,240,5,1140.0,308.27,Eduardo,Cartão de Crédito,7,Julho,2025
+56,2025-12-23,Natália Barros,São Paulo,SP,Teclado Mecânico,Periféricos,1,350,15,297.5,117.6,Camila,Pix,12,Dezembro,2025
+57,2025-08-26,Daniel Aguiar,Curitiba,PR,Cadeira Gamer,Móveis,1,1650,15,1402.5,584.37,Patrícia,Boleto,8,Agosto,2025
+58,2025-09-01,Leonardo Vieira,Brasília,DF,Impressora,Escritório,4,870,15,2958.0,667.61,Renato,Cartão de Crédito,9,Setembro,2025
+59,2025-05-21,Leonardo Vieira,Porto Alegre,RS,Tablet,Mobile,5,2100,15,8925.0,2617.82,Mariana,Cartão de Débito,5,Maio,2025
+60,2025-02-11,Ricardo Gomes,Porto Alegre,RS,Monitor 24,Monitores,3,980,10,2646.0,599.96,Felipe,Cartão de Crédito,2,Fevereiro,2025
+61,2025-06-19,Igor Mendes,Belo Horizonte,MG,Headset,Áudio,2,290,0,580.0,200.84,Camila,Boleto,6,Junho,2025
+62,2025-10-27,Samuel Cunha,Curitiba,PR,Notebook,Informática,4,4200,15,14280.0,3195.73,Carlos,Boleto,10,Outubro,2025
+63,2025-08-03,Igor Mendes,São Paulo,SP,Webcam,Periféricos,3,240,10,648.0,169.54,Juliana,Boleto,8,Agosto,2025
+64,2025-06-22,Daniel Aguiar,Porto Alegre,RS,Monitor 24,Monitores,4,980,15,3332.0,1475.22,Eduardo,Cartão de Crédito,6,Junho,2025
+65,2025-10-31,Caio Peixoto,Belo Horizonte,MG,Webcam,Periféricos,5,240,0,1200.0,267.92,Carlos,Pix,10,Outubro,2025
+66,2025-05-14,Rafael Moraes,Recife,PE,Tablet,Mobile,2,2100,15,3570.0,1444.31,Patrícia,Cartão de Crédito,5,Maio,2025
+67,2025-08-04,Gustavo Nunes,Salvador,BA,Webcam,Periféricos,3,240,15,612.0,232.83,Mariana,Boleto,8,Agosto,2025
+68,2025-02-05,Priscila Gomes,Brasília,DF,Notebook,Informática,1,4200,10,3780.0,1489.11,Carlos,Pix,2,Fevereiro,2025
+69,2025-08-31,Daniel Aguiar,Curitiba,PR,Monitor 24,Monitores,1,980,5,931.0,363.43,Mariana,Cartão de Crédito,8,Agosto,2025
+70,2025-02-28,Priscila Gomes,Porto Alegre,RS,Webcam,Periféricos,3,240,5,684.0,204.19,Felipe,Cartão de Débito,2,Fevereiro,2025
+71,2025-07-12,Paula Castro,Campinas,SP,Mouse Gamer,Periféricos,1,180,10,162.0,49.58,Juliana,Pix,7,Julho,2025
+72,2025-11-04,Fernanda Lima,Curitiba,PR,Impressora,Escritório,1,870,10,783.0,185.91,Carlos,Cartão de Débito,11,Novembro,2025
+73,2025-06-24,João Silva,Recife,PE,Cadeira Gamer,Móveis,3,1650,0,4950.0,1601.37,Eduardo,Boleto,6,Junho,2025
+74,2025-08-11,Patrícia Ribeiro,Recife,PE,Mouse Gamer,Periféricos,3,180,15,459.0,125.39,Renato,Boleto,8,Agosto,2025
+75,2025-05-06,Juliana Almeida,Recife,PE,Webcam,Periféricos,5,240,10,1080.0,398.98,Renato,Boleto,5,Maio,2025
+76,2025-09-11,Diego Moreira,Fortaleza,CE,Monitor 24,Monitores,5,980,15,4165.0,1523.98,Felipe,Boleto,9,Setembro,2025
+77,2025-11-02,Samuel Cunha,Salvador,BA,Monitor 24,Monitores,3,980,10,2646.0,1005.71,Renato,Pix,11,Novembro,2025
+78,2025-09-08,Débora Teixeira,Curitiba,PR,Cadeira Gamer,Móveis,1,1650,5,1567.5,423.2,Juliana,Boleto,9,Setembro,2025
+79,2025-04-24,Paula Castro,Fortaleza,CE,Tablet,Mobile,4,2100,0,8400.0,3584.59,Juliana,Cartão de Débito,4,Abril,2025
+80,2025-06-26,Aline Moura,Campinas,SP,Tablet,Mobile,3,2100,15,5355.0,1668.79,Patrícia,Cartão de Débito,6,Junho,2025
+81,2025-03-03,Victor Braga,Fortaleza,CE,Smartphone,Mobile,3,3200,10,8640.0,3344.97,Juliana,Cartão de Débito,3,Março,2025
+82,2025-09-05,Bianca Carvalho,Brasília,DF,Mouse Gamer,Periféricos,2,180,5,342.0,135.4,Renato,Pix,9,Setembro,2025
+83,2025-01-08,Cristina Neves,Porto Alegre,RS,Monitor 24,Monitores,2,980,10,1764.0,714.67,Felipe,Cartão de Débito,1,Janeiro,2025
+84,2025-03-06,Arthur Monteiro,São Paulo,SP,Notebook,Informática,5,4200,10,18900.0,5209.7,Camila,Pix,3,Março,2025
+85,2025-06-24,Patrícia Ribeiro,Campinas,SP,Notebook,Informática,3,4200,15,10710.0,3537.74,Carlos,Cartão de Débito,6,Junho,2025
+86,2025-10-23,Arthur Monteiro,Rio de Janeiro,RJ,Webcam,Periféricos,1,240,15,204.0,66.72,Carlos,Cartão de Crédito,10,Outubro,2025
+87,2025-03-02,Débora Teixeira,Campinas,SP,Teclado Mecânico,Periféricos,3,350,0,1050.0,211.6,Eduardo,Cartão de Crédito,3,Março,2025
+88,2025-10-29,Aline Moura,Recife,PE,Cadeira Gamer,Móveis,4,1650,15,5610.0,2107.46,Renato,Pix,10,Outubro,2025
+89,2025-02-11,Bruno Martins,Rio de Janeiro,RJ,Impressora,Escritório,2,870,5,1653.0,634.48,Juliana,Cartão de Crédito,2,Fevereiro,2025
+90,2025-12-19,Murilo Farias,Rio de Janeiro,RJ,Cadeira Gamer,Móveis,2,1650,0,3300.0,1147.97,Camila,Cartão de Débito,12,Dezembro,2025
+91,2025-08-21,Lucas Ferreira,Curitiba,PR,Notebook,Informática,3,4200,10,11340.0,3110.03,Juliana,Cartão de Débito,8,Agosto,2025
+92,2025-04-26,Cláudia Figueiredo,Campinas,SP,Tablet,Mobile,2,2100,15,3570.0,1504.06,Felipe,Cartão de Débito,4,Abril,2025
+93,2025-11-01,Elaine Duarte,Rio de Janeiro,RJ,Teclado Mecânico,Periféricos,1,350,5,332.5,83.74,Renato,Boleto,11,Novembro,2025
+94,2025-09-14,Igor Mendes,Fortaleza,CE,Mouse Gamer,Periféricos,3,180,15,459.0,98.38,Camila,Boleto,9,Setembro,2025
+95,2025-11-06,Gustavo Nunes,Campinas,SP,Mouse Gamer,Periféricos,1,180,15,153.0,40.75,Carlos,Pix,11,Novembro,2025
+96,2025-12-11,Bianca Carvalho,Campinas,SP,Monitor 24,Monitores,5,980,0,4900.0,980.52,Carlos,Cartão de Crédito,12,Dezembro,2025
+97,2025-10-27,Aline Moura,Brasília,DF,Webcam,Periféricos,4,240,10,864.0,349.6,Camila,Pix,10,Outubro,2025
+98,2025-02-23,Bruno Martins,Salvador,BA,Webcam,Periféricos,4,240,10,864.0,319.45,Patrícia,Boleto,2,Fevereiro,2025
+99,2025-10-09,Pedro Santos,Fortaleza,CE,Smartphone,Mobile,3,3200,15,8160.0,2012.33,Camila,Pix,10,Outubro,2025
+100,2025-07-26,Henrique Duarte,Porto Alegre,RS,HD Externo,Armazenamento,3,430,0,1290.0,267.62,Carlos,Boleto,7,Julho,2025
+101,2025-09-13,Arthur Monteiro,São Paulo,SP,Headset,Áudio,2,290,10,522.0,153.65,Camila,Pix,9,Setembro,2025
+102,2025-08-13,Samuel Cunha,Porto Alegre,RS,Monitor 24,Monitores,5,980,5,4655.0,1015.17,Camila,Pix,8,Agosto,2025
+103,2025-01-08,Débora Teixeira,Campinas,SP,Notebook,Informática,2,4200,5,7980.0,2971.05,Eduardo,Pix,1,Janeiro,2025
+104,2025-03-20,Gabriela Lopes,Rio de Janeiro,RJ,Monitor 24,Monitores,4,980,0,3920.0,1129.24,Renato,Cartão de Débito,3,Março,2025
+105,2025-03-16,Rafael Moraes,Fortaleza,CE,Headset,Áudio,4,290,5,1102.0,370.06,Juliana,Cartão de Crédito,3,Março,2025
+106,2025-09-17,Bianca Carvalho,Porto Alegre,RS,Mouse Gamer,Periféricos,4,180,10,648.0,140.25,Carlos,Cartão de Débito,9,Setembro,2025
+107,2025-08-17,Igor Mendes,Porto Alegre,RS,Smartphone,Mobile,5,3200,15,13600.0,3178.11,Camila,Cartão de Débito,8,Agosto,2025
+108,2025-06-14,Eduardo Barbosa,Brasília,DF,HD Externo,Armazenamento,5,430,15,1827.5,614.34,Juliana,Boleto,6,Junho,2025
+109,2025-12-28,Rafael Moraes,Recife,PE,Monitor 24,Monitores,1,980,10,882.0,232.69,Eduardo,Cartão de Crédito,12,Dezembro,2025
+110,2025-08-14,Carlos Souza,São Paulo,SP,Webcam,Periféricos,2,240,10,432.0,100.47,Camila,Pix,8,Agosto,2025
+111,2025-05-16,Mariana Alves,Belo Horizonte,MG,Smartphone,Mobile,4,3200,5,12160.0,5244.52,Eduardo,Pix,5,Maio,2025
+112,2025-09-07,Igor Mendes,Brasília,DF,HD Externo,Armazenamento,4,430,10,1548.0,454.03,Carlos,Pix,9,Setembro,2025
+113,2025-02-20,Rogério Machado,Porto Alegre,RS,Monitor 24,Monitores,2,980,0,1960.0,669.35,Mariana,Boleto,2,Fevereiro,2025
+114,2025-01-29,Matheus Dias,Porto Alegre,RS,Teclado Mecânico,Periféricos,1,350,0,350.0,129.12,Patrícia,Cartão de Débito,1,Janeiro,2025
+115,2025-04-03,Bruno Martins,Belo Horizonte,MG,Headset,Áudio,2,290,15,493.0,152.1,Felipe,Pix,4,Abril,2025
+116,2025-10-26,Camila Rocha,Recife,PE,Impressora,Escritório,5,870,5,4132.5,1345.47,Juliana,Boleto,10,Outubro,2025
+117,2025-08-27,Matheus Dias,Porto Alegre,RS,Tablet,Mobile,4,2100,10,7560.0,2141.67,Felipe,Pix,8,Agosto,2025
+118,2025-08-06,Samuel Cunha,Salvador,BA,Webcam,Periféricos,5,240,10,1080.0,313.49,Renato,Boleto,8,Agosto,2025
+119,2025-07-15,Caio Peixoto,Curitiba,PR,SSD 1TB,Armazenamento,4,520,15,1768.0,748.46,Patrícia,Cartão de Débito,7,Julho,2025
+120,2025-10-17,Letícia Ramos,Porto Alegre,RS,Smartphone,Mobile,1,3200,15,2720.0,1037.35,Carlos,Boleto,10,Outubro,2025
+121,2025-04-08,Sabrina Pires,Curitiba,PR,SSD 1TB,Armazenamento,5,520,10,2340.0,924.88,Renato,Cartão de Crédito,4,Abril,2025
+122,2025-01-18,Luana Ribeiro,Rio de Janeiro,RJ,Tablet,Mobile,1,2100,10,1890.0,477.88,Patrícia,Cartão de Crédito,1,Janeiro,2025
+123,2025-03-09,Igor Mendes,Porto Alegre,RS,Mouse Gamer,Periféricos,3,180,15,459.0,186.4,Patrícia,Cartão de Débito,3,Março,2025
+124,2025-06-23,Fernanda Lima,Porto Alegre,RS,Teclado Mecânico,Periféricos,4,350,10,1260.0,331.83,Camila,Pix,6,Junho,2025
+125,2025-07-22,João Silva,Curitiba,PR,Teclado Mecânico,Periféricos,4,350,10,1260.0,538.55,Renato,Pix,7,Julho,2025
+126,2025-07-10,Carlos Souza,Salvador,BA,Webcam,Periféricos,3,240,15,612.0,149.57,Juliana,Boleto,7,Julho,2025
+127,2025-04-24,Cláudia Figueiredo,Campinas,SP,Notebook,Informática,5,4200,10,18900.0,4180.42,Mariana,Boleto,4,Abril,2025
+128,2025-01-20,Isabela Fernandes,Porto Alegre,RS,Smartphone,Mobile,4,3200,0,12800.0,5312.71,Camila,Pix,1,Janeiro,2025
+129,2025-07-09,Daniel Aguiar,Curitiba,PR,Mouse Gamer,Periféricos,5,180,5,855.0,301.68,Eduardo,Cartão de Crédito,7,Julho,2025
+130,2025-05-24,Pedro Santos,Rio de Janeiro,RJ,Headset,Áudio,4,290,15,986.0,212.22,Patrícia,Cartão de Crédito,5,Maio,2025
+131,2025-12-18,Vanessa Pinto,Fortaleza,CE,Webcam,Periféricos,2,240,10,432.0,183.67,Patrícia,Pix,12,Dezembro,2025
+132,2025-08-21,Juliana Almeida,Porto Alegre,RS,Headset,Áudio,2,290,0,580.0,123.39,Juliana,Pix,8,Agosto,2025
+133,2025-04-16,Lucas Ferreira,Salvador,BA,Notebook,Informática,2,4200,5,7980.0,2020.98,Juliana,Cartão de Crédito,4,Abril,2025
+134,2025-03-16,Ricardo Gomes,Salvador,BA,Monitor 24,Monitores,2,980,0,1960.0,746.14,Renato,Cartão de Crédito,3,Março,2025
+135,2025-05-02,Luana Ribeiro,São Paulo,SP,Mouse Gamer,Periféricos,2,180,0,360.0,129.76,Patrícia,Pix,5,Maio,2025
+136,2025-09-27,Fernanda Lima,Porto Alegre,RS,Teclado Mecânico,Periféricos,1,350,5,332.5,87.97,Mariana,Boleto,9,Setembro,2025
+137,2025-04-24,Sabrina Pires,Salvador,BA,Webcam,Periféricos,5,240,0,1200.0,404.4,Carlos,Cartão de Débito,4,Abril,2025
+138,2025-08-07,Letícia Ramos,São Paulo,SP,Webcam,Periféricos,1,240,15,204.0,48.59,Mariana,Boleto,8,Agosto,2025
+139,2025-03-17,Lucas Ferreira,Fortaleza,CE,Smartphone,Mobile,1,3200,0,3200.0,1182.31,Felipe,Cartão de Débito,3,Março,2025
+140,2025-11-02,Natália Barros,Campinas,SP,Impressora,Escritório,5,870,10,3915.0,1388.94,Renato,Boleto,11,Novembro,2025
+141,2025-02-28,Cláudia Figueiredo,Campinas,SP,Cadeira Gamer,Móveis,4,1650,0,6600.0,1661.39,Juliana,Boleto,2,Fevereiro,2025
+142,2025-07-24,Thiago Rezende,Curitiba,PR,Webcam,Periféricos,4,240,10,864.0,210.08,Mariana,Cartão de Débito,7,Julho,2025
+143,2025-12-18,Vinicius Tavares,Salvador,BA,Headset,Áudio,3,290,10,783.0,165.68,Mariana,Pix,12,Dezembro,2025
+144,2025-07-10,Ricardo Gomes,Rio de Janeiro,RJ,Mouse Gamer,Periféricos,4,180,0,720.0,189.97,Carlos,Cartão de Débito,7,Julho,2025
+145,2025-08-05,Victor Braga,Rio de Janeiro,RJ,Tablet,Mobile,4,2100,10,7560.0,1750.88,Carlos,Cartão de Débito,8,Agosto,2025
+146,2025-04-19,Camila Rocha,Porto Alegre,RS,Impressora,Escritório,3,870,0,2610.0,797.41,Camila,Cartão de Crédito,4,Abril,2025
+147,2025-05-23,Caio Peixoto,Salvador,BA,Mouse Gamer,Periféricos,5,180,10,810.0,341.24,Juliana,Boleto,5,Maio,2025
+148,2025-12-03,Samuel Cunha,Campinas,SP,Cadeira Gamer,Móveis,5,1650,0,8250.0,2456.45,Renato,Pix,12,Dezembro,2025
+149,2025-04-03,Camila Rocha,Porto Alegre,RS,Teclado Mecânico,Periféricos,3,350,10,945.0,342.32,Eduardo,Pix,4,Abril,2025
+150,2025-08-21,Mariana Alves,São Paulo,SP,Teclado Mecânico,Periféricos,1,350,5,332.5,118.35,Felipe,Cartão de Débito,8,Agosto,2025
+151,2025-03-21,Bruno Martins,Salvador,BA,SSD 1TB,Armazenamento,5,520,0,2600.0,595.83,Carlos,Pix,3,Março,2025
+152,2025-08-01,Bianca Carvalho,Fortaleza,CE,SSD 1TB,Armazenamento,4,520,15,1768.0,527.27,Juliana,Pix,8,Agosto,2025
+153,2025-10-31,Gabriela Lopes,Recife,PE,HD Externo,Armazenamento,1,430,10,387.0,108.53,Renato,Pix,10,Outubro,2025
+154,2025-06-04,Larissa Melo,Recife,PE,Monitor 24,Monitores,5,980,0,4900.0,2195.58,Felipe,Cartão de Débito,6,Junho,2025
+155,2025-08-09,Patrícia Ribeiro,Salvador,BA,SSD 1TB,Armazenamento,1,520,0,520.0,169.34,Felipe,Boleto,8,Agosto,2025
+156,2025-01-22,Aline Moura,Curitiba,PR,Cadeira Gamer,Móveis,5,1650,10,7425.0,3207.46,Carlos,Boleto,1,Janeiro,2025
+157,2025-12-30,Arthur Monteiro,Salvador,BA,Mouse Gamer,Periféricos,5,180,15,765.0,234.59,Eduardo,Cartão de Débito,12,Dezembro,2025
+158,2025-11-13,Beatriz Campos,Recife,PE,Mouse Gamer,Periféricos,1,180,10,162.0,65.94,Patrícia,Pix,11,Novembro,2025
+159,2025-09-26,Juliana Almeida,Rio de Janeiro,RJ,Headset,Áudio,2,290,15,493.0,149.27,Eduardo,Cartão de Débito,9,Setembro,2025
+160,2025-02-09,Henrique Duarte,Salvador,BA,Smartphone,Mobile,2,3200,10,5760.0,1470.07,Mariana,Cartão de Crédito,2,Fevereiro,2025
+161,2025-05-12,Eduardo Barbosa,Salvador,BA,HD Externo,Armazenamento,2,430,5,817.0,346.65,Felipe,Cartão de Crédito,5,Maio,2025
+162,2025-10-16,Rogério Machado,Rio de Janeiro,RJ,Tablet,Mobile,2,2100,15,3570.0,1192.42,Camila,Cartão de Débito,10,Outubro,2025
+163,2025-08-15,Arthur Monteiro,Salvador,BA,Tablet,Mobile,2,2100,15,3570.0,1545.55,Renato,Cartão de Débito,8,Agosto,2025
+164,2025-08-20,Pedro Santos,São Paulo,SP,Impressora,Escritório,3,870,0,2610.0,971.96,Carlos,Cartão de Débito,8,Agosto,2025
+165,2025-10-11,Elaine Duarte,Rio de Janeiro,RJ,SSD 1TB,Armazenamento,1,520,15,442.0,147.77,Carlos,Boleto,10,Outubro,2025
+166,2025-02-01,Leonardo Vieira,Curitiba,PR,Impressora,Escritório,3,870,15,2218.5,720.25,Mariana,Cartão de Débito,2,Fevereiro,2025
+167,2025-12-29,Leonardo Vieira,Rio de Janeiro,RJ,Smartphone,Mobile,5,3200,5,15200.0,6691.26,Camila,Cartão de Crédito,12,Dezembro,2025
+168,2025-06-23,Letícia Ramos,Salvador,BA,HD Externo,Armazenamento,3,430,15,1096.5,381.37,Carlos,Cartão de Débito,6,Junho,2025
+169,2025-12-03,Murilo Farias,Salvador,BA,Mouse Gamer,Periféricos,1,180,15,153.0,57.98,Felipe,Cartão de Débito,12,Dezembro,2025
+170,2025-12-02,Samuel Cunha,Campinas,SP,Mouse Gamer,Periféricos,2,180,10,324.0,120.67,Eduardo,Cartão de Crédito,12,Dezembro,2025
+171,2025-06-18,Ricardo Gomes,Rio de Janeiro,RJ,Impressora,Escritório,3,870,15,2218.5,641.43,Mariana,Boleto,6,Junho,2025
+172,2025-04-20,Mariana Alves,Salvador,BA,Cadeira Gamer,Móveis,1,1650,10,1485.0,553.58,Camila,Cartão de Crédito,4,Abril,2025
+173,2025-02-21,Henrique Duarte,Belo Horizonte,MG,Monitor 24,Monitores,2,980,0,1960.0,737.06,Carlos,Cartão de Débito,2,Fevereiro,2025
+174,2025-04-03,Samuel Cunha,Belo Horizonte,MG,Impressora,Escritório,5,870,15,3697.5,1521.29,Felipe,Boleto,4,Abril,2025
+175,2025-11-09,Matheus Dias,Recife,PE,Notebook,Informática,3,4200,5,11970.0,2485.01,Camila,Cartão de Crédito,11,Novembro,2025
+176,2025-04-10,Vanessa Pinto,Curitiba,PR,Cadeira Gamer,Móveis,3,1650,15,4207.5,942.51,Camila,Boleto,4,Abril,2025
+177,2025-04-13,Murilo Farias,Recife,PE,SSD 1TB,Armazenamento,5,520,15,2210.0,460.64,Felipe,Cartão de Débito,4,Abril,2025
+178,2025-09-22,Fernanda Lima,Fortaleza,CE,Notebook,Informática,3,4200,0,12600.0,3429.09,Renato,Pix,9,Setembro,2025
+179,2025-02-16,Felipe Araújo,Porto Alegre,RS,Teclado Mecânico,Periféricos,4,350,5,1330.0,322.18,Camila,Cartão de Débito,2,Fevereiro,2025
+180,2025-05-01,Rafael Moraes,Recife,PE,Notebook,Informática,1,4200,15,3570.0,1158.46,Mariana,Cartão de Débito,5,Maio,2025
+181,2025-11-29,Mariana Alves,São Paulo,SP,Monitor 24,Monitores,3,980,0,2940.0,706.21,Felipe,Cartão de Crédito,11,Novembro,2025
+182,2025-08-29,Leonardo Vieira,Porto Alegre,RS,Notebook,Informática,4,4200,5,15960.0,4154.22,Carlos,Pix,8,Agosto,2025
+183,2025-11-08,Natália Barros,Porto Alegre,RS,Notebook,Informática,2,4200,5,7980.0,2496.14,Eduardo,Pix,11,Novembro,2025
+184,2025-08-03,Arthur Monteiro,Curitiba,PR,SSD 1TB,Armazenamento,3,520,0,1560.0,683.38,Camila,Pix,8,Agosto,2025
+185,2025-10-22,Amanda Cardoso,Fortaleza,CE,Mouse Gamer,Periféricos,5,180,0,900.0,262.81,Felipe,Cartão de Débito,10,Outubro,2025
+186,2025-08-02,Patrícia Ribeiro,São Paulo,SP,Headset,Áudio,5,290,10,1305.0,508.77,Mariana,Cartão de Débito,8,Agosto,2025
+187,2025-08-29,Pedro Santos,Brasília,DF,Mouse Gamer,Periféricos,5,180,0,900.0,317.15,Eduardo,Cartão de Débito,8,Agosto,2025
+188,2025-12-03,Arthur Monteiro,São Paulo,SP,SSD 1TB,Armazenamento,3,520,0,1560.0,567.53,Mariana,Cartão de Débito,12,Dezembro,2025
+189,2025-03-31,Priscila Gomes,São Paulo,SP,Teclado Mecânico,Periféricos,3,350,10,945.0,233.06,Camila,Boleto,3,Março,2025
+190,2025-08-23,Pedro Santos,Belo Horizonte,MG,Tablet,Mobile,2,2100,0,4200.0,1138.15,Renato,Cartão de Crédito,8,Agosto,2025
+191,2025-09-21,Paula Castro,Curitiba,PR,Notebook,Informática,1,4200,10,3780.0,818.96,Camila,Cartão de Débito,9,Setembro,2025
+192,2025-01-25,Cláudia Figueiredo,Curitiba,PR,Notebook,Informática,3,4200,10,11340.0,2658.84,Patrícia,Cartão de Débito,1,Janeiro,2025
+193,2025-07-17,Mariana Alves,Salvador,BA,Mouse Gamer,Periféricos,4,180,15,612.0,161.67,Felipe,Boleto,7,Julho,2025
+194,2025-08-06,Juliana Almeida,Fortaleza,CE,Smartphone,Mobile,3,3200,10,8640.0,2157.52,Eduardo,Cartão de Crédito,8,Agosto,2025
+195,2025-12-05,Matheus Dias,Porto Alegre,RS,Cadeira Gamer,Móveis,3,1650,0,4950.0,2128.41,Renato,Boleto,12,Dezembro,2025
+196,2025-01-22,Victor Braga,Recife,PE,Impressora,Escritório,2,870,15,1479.0,535.57,Patrícia,Boleto,1,Janeiro,2025
+197,2025-12-14,Bruno Martins,São Paulo,SP,SSD 1TB,Armazenamento,1,520,15,442.0,158.75,Carlos,Cartão de Crédito,12,Dezembro,2025
+198,2025-11-27,Vanessa Pinto,Fortaleza,CE,Impressora,Escritório,1,870,5,826.5,358.03,Patrícia,Boleto,11,Novembro,2025
+199,2025-07-09,Vanessa Pinto,São Paulo,SP,Impressora,Escritório,5,870,5,4132.5,1158.07,Camila,Pix,7,Julho,2025
+200,2025-11-29,Bianca Carvalho,Belo Horizonte,MG,Impressora,Escritório,5,870,10,3915.0,1372.17,Juliana,Pix,11,Novembro,2025
+201,2025-03-02,Gustavo Nunes,Belo Horizonte,MG,Notebook,Informática,4,4200,15,14280.0,3164.65,Renato,Boleto,3,Março,2025
+202,2025-03-11,Lucas Ferreira,Campinas,SP,Monitor 24,Monitores,3,980,15,2499.0,999.49,Camila,Cartão de Crédito,3,Março,2025
+203,2025-12-30,Lucas Ferreira,Fortaleza,CE,Smartphone,Mobile,1,3200,10,2880.0,815.16,Renato,Cartão de Débito,12,Dezembro,2025
+204,2025-04-13,Ricardo Gomes,Belo Horizonte,MG,Teclado Mecânico,Periféricos,3,350,5,997.5,418.61,Juliana,Boleto,4,Abril,2025
+205,2025-10-10,Ricardo Gomes,Salvador,BA,Notebook,Informática,5,4200,10,18900.0,6296.51,Mariana,Pix,10,Outubro,2025
+206,2025-10-22,Lucas Ferreira,Recife,PE,SSD 1TB,Armazenamento,4,520,15,1768.0,455.63,Felipe,Cartão de Débito,10,Outubro,2025
+207,2025-06-26,Ricardo Gomes,Rio de Janeiro,RJ,Tablet,Mobile,4,2100,15,7140.0,1999.01,Felipe,Cartão de Crédito,6,Junho,2025
+208,2025-06-05,Bruno Martins,Brasília,DF,Headset,Áudio,1,290,0,290.0,92.94,Felipe,Cartão de Débito,6,Junho,2025
+209,2025-05-09,Eduardo Barbosa,Curitiba,PR,Smartphone,Mobile,3,3200,10,8640.0,2060.78,Renato,Cartão de Crédito,5,Maio,2025
+210,2025-03-28,Luana Ribeiro,Porto Alegre,RS,Tablet,Mobile,5,2100,0,10500.0,3405.75,Felipe,Cartão de Crédito,3,Março,2025
+211,2025-10-16,Pedro Santos,Campinas,SP,Tablet,Mobile,5,2100,10,9450.0,2262.02,Carlos,Pix,10,Outubro,2025
+212,2025-08-02,Sabrina Pires,Campinas,SP,Notebook,Informática,3,4200,5,11970.0,3091.38,Carlos,Boleto,8,Agosto,2025
+213,2025-12-17,Paula Castro,Brasília,DF,Tablet,Mobile,3,2100,10,5670.0,1866.93,Renato,Boleto,12,Dezembro,2025
+214,2025-08-26,Larissa Melo,São Paulo,SP,Mouse Gamer,Periféricos,2,180,15,306.0,105.9,Patrícia,Cartão de Crédito,8,Agosto,2025
+215,2025-07-09,Henrique Duarte,Salvador,BA,HD Externo,Armazenamento,3,430,15,1096.5,457.58,Mariana,Cartão de Débito,7,Julho,2025
+216,2025-03-14,Carlos Souza,Fortaleza,CE,Monitor 24,Monitores,1,980,10,882.0,297.76,Carlos,Cartão de Débito,3,Março,2025
+217,2025-03-23,Diego Moreira,Campinas,SP,Headset,Áudio,4,290,5,1102.0,230.68,Patrícia,Cartão de Crédito,3,Março,2025
+218,2025-06-07,Gabriela Lopes,Fortaleza,CE,Teclado Mecânico,Periféricos,5,350,15,1487.5,483.9,Carlos,Pix,6,Junho,2025
+219,2025-06-30,Ana Costa,Brasília,DF,Headset,Áudio,4,290,5,1102.0,436.63,Carlos,Cartão de Débito,6,Junho,2025
+220,2025-02-25,Aline Moura,Campinas,SP,Webcam,Periféricos,4,240,10,864.0,272.87,Felipe,Cartão de Débito,2,Fevereiro,2025
+221,2025-01-27,Caio Peixoto,Salvador,BA,Smartphone,Mobile,4,3200,10,11520.0,5053.7,Juliana,Cartão de Débito,1,Janeiro,2025
+222,2025-10-09,Bianca Carvalho,Porto Alegre,RS,Cadeira Gamer,Móveis,1,1650,15,1402.5,454.32,Mariana,Cartão de Crédito,10,Outubro,2025
+223,2025-07-07,Rogério Machado,Recife,PE,Mouse Gamer,Periféricos,3,180,10,486.0,150.92,Felipe,Cartão de Crédito,7,Julho,2025
+224,2025-03-12,Cristina Neves,Brasília,DF,Impressora,Escritório,4,870,0,3480.0,1526.59,Patrícia,Boleto,3,Março,2025
+225,2025-11-10,Diego Moreira,Fortaleza,CE,Cadeira Gamer,Móveis,2,1650,5,3135.0,1153.71,Felipe,Boleto,11,Novembro,2025
+226,2025-09-18,Igor Mendes,Porto Alegre,RS,Impressora,Escritório,5,870,10,3915.0,1265.22,Camila,Cartão de Débito,9,Setembro,2025
+227,2025-08-02,Luana Ribeiro,São Paulo,SP,Webcam,Periféricos,3,240,10,648.0,182.44,Renato,Pix,8,Agosto,2025
+228,2025-10-26,Vinicius Tavares,Fortaleza,CE,Impressora,Escritório,3,870,5,2479.5,668.6,Felipe,Boleto,10,Outubro,2025
+229,2025-08-14,Diego Moreira,Curitiba,PR,Teclado Mecânico,Periféricos,1,350,0,350.0,140.81,Eduardo,Cartão de Crédito,8,Agosto,2025
+230,2025-02-01,Cristina Neves,Curitiba,PR,Headset,Áudio,4,290,15,986.0,228.55,Felipe,Cartão de Crédito,2,Fevereiro,2025
+231,2025-03-30,Beatriz Campos,Salvador,BA,Cadeira Gamer,Móveis,4,1650,15,5610.0,2084.46,Patrícia,Cartão de Débito,3,Março,2025
+232,2025-05-07,Bianca Carvalho,Porto Alegre,RS,Tablet,Mobile,5,2100,15,8925.0,3587.26,Renato,Cartão de Crédito,5,Maio,2025
+233,2025-06-28,Débora Teixeira,Porto Alegre,RS,SSD 1TB,Armazenamento,2,520,15,884.0,327.73,Renato,Cartão de Débito,6,Junho,2025
+234,2025-07-22,Renato Freitas,Campinas,SP,Mouse Gamer,Periféricos,5,180,15,765.0,172.94,Felipe,Cartão de Débito,7,Julho,2025
+235,2025-12-02,Gustavo Nunes,Porto Alegre,RS,Notebook,Informática,1,4200,10,3780.0,827.81,Camila,Cartão de Crédito,12,Dezembro,2025
+236,2025-11-12,Elaine Duarte,Brasília,DF,Monitor 24,Monitores,3,980,10,2646.0,1099.89,Juliana,Cartão de Crédito,11,Novembro,2025
+237,2025-07-31,Mariana Alves,Brasília,DF,Notebook,Informática,2,4200,5,7980.0,3486.28,Camila,Pix,7,Julho,2025
+238,2025-09-01,Vinicius Tavares,Belo Horizonte,MG,Tablet,Mobile,1,2100,5,1995.0,694.8,Juliana,Cartão de Débito,9,Setembro,2025
+239,2025-04-29,Igor Mendes,Porto Alegre,RS,HD Externo,Armazenamento,1,430,0,430.0,123.38,Carlos,Cartão de Crédito,4,Abril,2025
+240,2025-04-06,Elaine Duarte,Belo Horizonte,MG,Headset,Áudio,1,290,15,246.5,62.37,Renato,Pix,4,Abril,2025
+241,2025-06-21,Matheus Dias,Porto Alegre,RS,Notebook,Informática,5,4200,0,21000.0,4575.61,Camila,Boleto,6,Junho,2025
+242,2025-02-27,Mariana Alves,Brasília,DF,Teclado Mecânico,Periféricos,4,350,10,1260.0,506.26,Felipe,Boleto,2,Fevereiro,2025
+243,2025-06-01,Caio Peixoto,Porto Alegre,RS,Tablet,Mobile,2,2100,0,4200.0,1116.55,Juliana,Cartão de Crédito,6,Junho,2025
+244,2025-12-09,Carlos Souza,Recife,PE,Impressora,Escritório,4,870,10,3132.0,1341.48,Felipe,Cartão de Crédito,12,Dezembro,2025
+245,2025-05-01,Leonardo Vieira,Salvador,BA,Webcam,Periféricos,2,240,0,480.0,184.71,Renato,Cartão de Débito,5,Maio,2025
+246,2025-07-04,Samuel Cunha,Campinas,SP,SSD 1TB,Armazenamento,5,520,0,2600.0,999.99,Juliana,Pix,7,Julho,2025
+247,2025-12-18,Henrique Duarte,Rio de Janeiro,RJ,Tablet,Mobile,4,2100,10,7560.0,3100.14,Renato,Pix,12,Dezembro,2025
+248,2025-03-10,Vinicius Tavares,Porto Alegre,RS,Tablet,Mobile,3,2100,5,5985.0,2365.38,Felipe,Boleto,3,Março,2025
+249,2025-08-30,Rogério Machado,Campinas,SP,Smartphone,Mobile,3,3200,15,8160.0,2240.04,Juliana,Cartão de Crédito,8,Agosto,2025
+250,2025-07-05,Lucas Ferreira,Campinas,SP,Tablet,Mobile,1,2100,15,1785.0,567.55,Mariana,Pix,7,Julho,2025
+251,2025-09-24,Leonardo Vieira,Brasília,DF,Cadeira Gamer,Móveis,2,1650,5,3135.0,1281.79,Mariana,Cartão de Crédito,9,Setembro,2025
+252,2025-08-17,Ana Costa,Campinas,SP,Smartphone,Mobile,4,3200,0,12800.0,2883.55,Camila,Cartão de Crédito,8,Agosto,2025
+253,2025-12-11,Isabela Fernandes,Recife,PE,Cadeira Gamer,Móveis,4,1650,0,6600.0,2047.98,Carlos,Boleto,12,Dezembro,2025
+254,2025-06-26,Samuel Cunha,São Paulo,SP,SSD 1TB,Armazenamento,2,520,0,1040.0,456.22,Mariana,Pix,6,Junho,2025
+255,2025-03-11,Priscila Gomes,Fortaleza,CE,Mouse Gamer,Periféricos,1,180,10,162.0,56.34,Eduardo,Cartão de Débito,3,Março,2025
+256,2025-12-05,Igor Mendes,Fortaleza,CE,Headset,Áudio,4,290,15,986.0,423.92,Felipe,Cartão de Débito,12,Dezembro,2025
+257,2025-04-25,João Silva,Belo Horizonte,MG,Mouse Gamer,Periféricos,5,180,15,765.0,243.11,Carlos,Cartão de Débito,4,Abril,2025
+258,2025-05-07,Beatriz Campos,Brasília,DF,Webcam,Periféricos,4,240,15,816.0,199.23,Patrícia,Cartão de Crédito,5,Maio,2025
+259,2025-08-03,Sabrina Pires,Curitiba,PR,SSD 1TB,Armazenamento,1,520,0,520.0,128.77,Carlos,Cartão de Crédito,8,Agosto,2025
+260,2025-12-11,Cristina Neves,Rio de Janeiro,RJ,Monitor 24,Monitores,1,980,0,980.0,331.62,Carlos,Cartão de Crédito,12,Dezembro,2025
+261,2025-04-22,Rogério Machado,São Paulo,SP,Smartphone,Mobile,4,3200,15,10880.0,4258.6,Carlos,Cartão de Crédito,4,Abril,2025
+262,2025-12-11,Diego Moreira,Porto Alegre,RS,Cadeira Gamer,Móveis,2,1650,10,2970.0,907.72,Juliana,Cartão de Débito,12,Dezembro,2025
+263,2025-02-01,Débora Teixeira,Brasília,DF,Teclado Mecânico,Periféricos,2,350,15,595.0,223.05,Felipe,Boleto,2,Fevereiro,2025
+264,2025-12-10,Rafael Moraes,Fortaleza,CE,Cadeira Gamer,Móveis,1,1650,10,1485.0,318.69,Patrícia,Boleto,12,Dezembro,2025
+265,2025-10-03,Vinicius Tavares,Belo Horizonte,MG,Headset,Áudio,3,290,15,739.5,298.78,Juliana,Cartão de Crédito,10,Outubro,2025
+266,2025-08-02,Débora Teixeira,Belo Horizonte,MG,SSD 1TB,Armazenamento,4,520,0,2080.0,643.56,Felipe,Boleto,8,Agosto,2025
+267,2025-08-19,Vanessa Pinto,Porto Alegre,RS,Monitor 24,Monitores,2,980,10,1764.0,508.6,Mariana,Cartão de Crédito,8,Agosto,2025
+268,2025-04-07,Rogério Machado,Porto Alegre,RS,Notebook,Informática,4,4200,0,16800.0,3890.79,Juliana,Boleto,4,Abril,2025
+269,2025-04-08,Elaine Duarte,Salvador,BA,Monitor 24,Monitores,3,980,0,2940.0,1167.32,Mariana,Boleto,4,Abril,2025
+270,2025-10-10,Diego Moreira,Campinas,SP,Monitor 24,Monitores,2,980,15,1666.0,368.55,Renato,Boleto,10,Outubro,2025
+271,2025-09-20,Gabriela Lopes,Brasília,DF,Webcam,Periféricos,3,240,10,648.0,249.23,Camila,Pix,9,Setembro,2025
+272,2025-07-31,Pedro Santos,Fortaleza,CE,Smartphone,Mobile,3,3200,5,9120.0,3258.79,Juliana,Cartão de Crédito,7,Julho,2025
+273,2025-04-11,Mariana Alves,Porto Alegre,RS,Notebook,Informática,5,4200,15,17850.0,6715.2,Juliana,Boleto,4,Abril,2025
+274,2025-09-08,Victor Braga,Curitiba,PR,Impressora,Escritório,4,870,10,3132.0,1207.91,Camila,Boleto,9,Setembro,2025
+275,2025-09-08,Patrícia Ribeiro,Salvador,BA,Teclado Mecânico,Periféricos,2,350,5,665.0,179.5,Carlos,Pix,9,Setembro,2025
+276,2025-11-19,Felipe Araújo,São Paulo,SP,Mouse Gamer,Periféricos,1,180,15,153.0,63.59,Mariana,Cartão de Crédito,11,Novembro,2025
+277,2025-11-13,Arthur Monteiro,Curitiba,PR,Notebook,Informática,5,4200,15,17850.0,6367.09,Camila,Boleto,11,Novembro,2025
+278,2025-09-29,Victor Braga,São Paulo,SP,Notebook,Informática,5,4200,15,17850.0,7979.62,Renato,Cartão de Débito,9,Setembro,2025
+279,2025-02-19,Natália Barros,Brasília,DF,Notebook,Informática,4,4200,5,15960.0,6755.0,Felipe,Cartão de Crédito,2,Fevereiro,2025
+280,2025-05-17,Paula Castro,Campinas,SP,Monitor 24,Monitores,5,980,10,4410.0,1085.73,Mariana,Cartão de Débito,5,Maio,2025
+281,2025-04-26,Isabela Fernandes,Fortaleza,CE,Headset,Áudio,5,290,5,1377.5,278.86,Mariana,Pix,4,Abril,2025
+282,2025-01-29,Arthur Monteiro,Recife,PE,Mouse Gamer,Periféricos,4,180,15,612.0,190.84,Carlos,Cartão de Crédito,1,Janeiro,2025
+283,2025-02-18,Natália Barros,Fortaleza,CE,Mouse Gamer,Periféricos,4,180,10,648.0,199.93,Carlos,Cartão de Crédito,2,Fevereiro,2025
+284,2025-02-08,Letícia Ramos,Campinas,SP,Monitor 24,Monitores,4,980,10,3528.0,1546.53,Renato,Pix,2,Fevereiro,2025
+285,2025-12-31,Paula Castro,Salvador,BA,Teclado Mecânico,Periféricos,1,350,5,332.5,100.83,Mariana,Cartão de Débito,12,Dezembro,2025
+286,2025-10-04,Mariana Alves,Campinas,SP,Teclado Mecânico,Periféricos,2,350,15,595.0,167.04,Eduardo,Cartão de Crédito,10,Outubro,2025
+287,2025-08-12,Felipe Araújo,Rio de Janeiro,RJ,Smartphone,Mobile,5,3200,10,14400.0,6286.69,Mariana,Cartão de Débito,8,Agosto,2025
+288,2025-06-17,Maria Oliveira,Campinas,SP,Impressora,Escritório,5,870,15,3697.5,768.23,Renato,Boleto,6,Junho,2025
+289,2025-12-15,Luana Ribeiro,Curitiba,PR,Webcam,Periféricos,3,240,15,612.0,209.33,Eduardo,Pix,12,Dezembro,2025
+290,2025-03-20,Rafael Moraes,Porto Alegre,RS,Impressora,Escritório,2,870,0,1740.0,747.31,Felipe,Boleto,3,Março,2025
+291,2025-06-07,Leonardo Vieira,Salvador,BA,HD Externo,Armazenamento,1,430,0,430.0,192.94,Patrícia,Cartão de Débito,6,Junho,2025
+292,2025-10-13,Débora Teixeira,Belo Horizonte,MG,Mouse Gamer,Periféricos,1,180,5,171.0,58.53,Eduardo,Pix,10,Outubro,2025
+293,2025-06-16,Rafael Moraes,Rio de Janeiro,RJ,Notebook,Informática,3,4200,0,12600.0,3789.69,Carlos,Cartão de Débito,6,Junho,2025
+294,2025-03-28,Letícia Ramos,Recife,PE,Headset,Áudio,1,290,5,275.5,84.58,Eduardo,Cartão de Crédito,3,Março,2025
+295,2025-02-02,Bruno Martins,Porto Alegre,RS,Teclado Mecânico,Periféricos,3,350,10,945.0,308.75,Eduardo,Cartão de Débito,2,Fevereiro,2025
+296,2025-05-07,Victor Braga,Porto Alegre,RS,Headset,Áudio,4,290,0,1160.0,417.27,Camila,Cartão de Crédito,5,Maio,2025
+297,2025-07-22,Mariana Alves,Rio de Janeiro,RJ,Webcam,Periféricos,2,240,10,432.0,193.67,Eduardo,Cartão de Débito,7,Julho,2025
+298,2025-11-05,Samuel Cunha,Salvador,BA,Webcam,Periféricos,4,240,5,912.0,341.9,Juliana,Boleto,11,Novembro,2025
+299,2025-12-22,Arthur Monteiro,Belo Horizonte,MG,HD Externo,Armazenamento,4,430,10,1548.0,583.81,Camila,Cartão de Crédito,12,Dezembro,2025
+300,2025-10-16,Eduardo Barbosa,Recife,PE,HD Externo,Armazenamento,3,430,15,1096.5,393.37,Felipe,Pix,10,Outubro,2025
+301,2025-12-21,Lucas Ferreira,Fortaleza,CE,Smartphone,Mobile,2,3200,15,5440.0,1363.15,Eduardo,Boleto,12,Dezembro,2025
+302,2025-08-05,Rafael Moraes,Porto Alegre,RS,Teclado Mecânico,Periféricos,2,350,10,630.0,179.76,Mariana,Boleto,8,Agosto,2025
+303,2025-12-21,Thiago Rezende,Fortaleza,CE,Impressora,Escritório,5,870,15,3697.5,1169.92,Carlos,Cartão de Débito,12,Dezembro,2025
+304,2025-05-08,Daniel Aguiar,Brasília,DF,Smartphone,Mobile,5,3200,0,16000.0,6762.52,Patrícia,Cartão de Crédito,5,Maio,2025
+305,2025-06-19,Aline Moura,Campinas,SP,Tablet,Mobile,1,2100,15,1785.0,371.81,Mariana,Pix,6,Junho,2025
+306,2025-07-20,Beatriz Campos,Porto Alegre,RS,Mouse Gamer,Periféricos,2,180,5,342.0,115.79,Felipe,Cartão de Débito,7,Julho,2025
+307,2025-02-13,Fernanda Lima,Fortaleza,CE,Notebook,Informática,1,4200,10,3780.0,1307.9,Felipe,Cartão de Débito,2,Fevereiro,2025
+308,2025-06-28,Vinicius Tavares,Salvador,BA,SSD 1TB,Armazenamento,4,520,5,1976.0,631.77,Mariana,Boleto,6,Junho,2025
+309,2025-12-30,Fernanda Lima,Fortaleza,CE,Smartphone,Mobile,3,3200,0,9600.0,3599.37,Carlos,Cartão de Débito,12,Dezembro,2025
+310,2025-10-10,Bruno Martins,Rio de Janeiro,RJ,Tablet,Mobile,2,2100,5,3990.0,1280.8,Patrícia,Boleto,10,Outubro,2025
+311,2025-12-03,Aline Moura,Curitiba,PR,Webcam,Periféricos,4,240,5,912.0,367.9,Eduardo,Pix,12,Dezembro,2025
+312,2025-07-19,João Silva,Campinas,SP,Smartphone,Mobile,2,3200,15,5440.0,1642.6,Juliana,Cartão de Crédito,7,Julho,2025
+313,2025-10-02,Patrícia Ribeiro,Rio de Janeiro,RJ,SSD 1TB,Armazenamento,5,520,0,2600.0,650.32,Patrícia,Cartão de Débito,10,Outubro,2025
+314,2025-09-08,Natália Barros,Fortaleza,CE,Monitor 24,Monitores,1,980,10,882.0,249.01,Patrícia,Boleto,9,Setembro,2025
+315,2025-08-23,Sabrina Pires,Recife,PE,Impressora,Escritório,5,870,0,4350.0,1579.13,Felipe,Cartão de Débito,8,Agosto,2025
+316,2025-05-03,Isabela Fernandes,Campinas,SP,Impressora,Escritório,1,870,5,826.5,307.21,Mariana,Cartão de Crédito,5,Maio,2025
+317,2025-03-12,Caio Peixoto,Belo Horizonte,MG,HD Externo,Armazenamento,5,430,15,1827.5,631.29,Eduardo,Boleto,3,Março,2025
+318,2025-09-08,Matheus Dias,Fortaleza,CE,Teclado Mecânico,Periféricos,5,350,5,1662.5,517.49,Felipe,Cartão de Crédito,9,Setembro,2025
+319,2025-01-05,Gabriela Lopes,Fortaleza,CE,HD Externo,Armazenamento,5,430,0,2150.0,502.28,Felipe,Cartão de Crédito,1,Janeiro,2025
+320,2025-09-09,Thiago Rezende,Brasília,DF,Headset,Áudio,5,290,15,1232.5,428.56,Camila,Boleto,9,Setembro,2025
+321,2025-04-23,Matheus Dias,Rio de Janeiro,RJ,Teclado Mecânico,Periféricos,5,350,0,1750.0,439.3,Carlos,Cartão de Débito,4,Abril,2025
+322,2025-10-17,Elaine Duarte,Brasília,DF,Monitor 24,Monitores,3,980,5,2793.0,711.7,Camila,Pix,10,Outubro,2025
+323,2025-01-22,Rogério Machado,Rio de Janeiro,RJ,Impressora,Escritório,3,870,10,2349.0,738.74,Camila,Cartão de Crédito,1,Janeiro,2025
+324,2025-01-17,Leonardo Vieira,Rio de Janeiro,RJ,Headset,Áudio,2,290,10,522.0,120.74,Renato,Cartão de Débito,1,Janeiro,2025
+325,2025-10-29,Samuel Cunha,Fortaleza,CE,Mouse Gamer,Periféricos,1,180,5,171.0,67.98,Patrícia,Boleto,10,Outubro,2025
+326,2025-01-31,Caio Peixoto,Campinas,SP,Teclado Mecânico,Periféricos,2,350,5,665.0,164.0,Patrícia,Cartão de Débito,1,Janeiro,2025
+327,2025-05-30,Matheus Dias,Brasília,DF,Impressora,Escritório,2,870,10,1566.0,321.42,Renato,Pix,5,Maio,2025
+328,2025-03-06,Samuel Cunha,Recife,PE,Teclado Mecânico,Periféricos,1,350,10,315.0,73.47,Felipe,Cartão de Crédito,3,Março,2025
+329,2025-10-23,Arthur Monteiro,Salvador,BA,Teclado Mecânico,Periféricos,2,350,15,595.0,194.94,Renato,Boleto,10,Outubro,2025
+330,2025-05-23,Samuel Cunha,Fortaleza,CE,Headset,Áudio,1,290,0,290.0,101.29,Patrícia,Boleto,5,Maio,2025
+331,2025-02-17,Victor Braga,Salvador,BA,Webcam,Periféricos,5,240,0,1200.0,279.33,Camila,Cartão de Débito,2,Fevereiro,2025
+332,2025-04-19,Gabriela Lopes,Brasília,DF,Mouse Gamer,Periféricos,4,180,5,684.0,142.25,Renato,Cartão de Débito,4,Abril,2025
+333,2025-09-06,Mariana Alves,Salvador,BA,SSD 1TB,Armazenamento,5,520,5,2470.0,761.91,Carlos,Pix,9,Setembro,2025
+334,2025-03-22,Leonardo Vieira,Fortaleza,CE,Mouse Gamer,Periféricos,1,180,0,180.0,39.18,Camila,Pix,3,Março,2025
+335,2025-05-21,Juliana Almeida,Curitiba,PR,Headset,Áudio,2,290,10,522.0,214.15,Patrícia,Cartão de Débito,5,Maio,2025
+336,2025-06-06,Victor Braga,Salvador,BA,Mouse Gamer,Periféricos,2,180,0,360.0,126.33,Juliana,Boleto,6,Junho,2025
+337,2025-02-09,Ricardo Gomes,Rio de Janeiro,RJ,Tablet,Mobile,1,2100,0,2100.0,832.95,Juliana,Boleto,2,Fevereiro,2025
+338,2025-08-05,Samuel Cunha,São Paulo,SP,Notebook,Informática,3,4200,0,12600.0,2557.31,Felipe,Boleto,8,Agosto,2025
+339,2025-02-22,Carlos Souza,Curitiba,PR,Mouse Gamer,Periféricos,4,180,0,720.0,192.46,Patrícia,Cartão de Débito,2,Fevereiro,2025
+340,2025-12-13,Camila Rocha,Belo Horizonte,MG,SSD 1TB,Armazenamento,4,520,5,1976.0,572.26,Mariana,Pix,12,Dezembro,2025
+341,2025-11-18,Elaine Duarte,Belo Horizonte,MG,Impressora,Escritório,4,870,10,3132.0,843.74,Felipe,Boleto,11,Novembro,2025
+342,2025-03-13,Rogério Machado,Fortaleza,CE,Impressora,Escritório,2,870,0,1740.0,392.98,Mariana,Boleto,3,Março,2025
+343,2025-11-27,Juliana Almeida,Recife,PE,HD Externo,Armazenamento,3,430,5,1225.5,475.56,Juliana,Cartão de Débito,11,Novembro,2025
+344,2025-09-18,Eduardo Barbosa,São Paulo,SP,Smartphone,Mobile,3,3200,5,9120.0,2923.53,Eduardo,Cartão de Débito,9,Setembro,2025
+345,2025-05-04,Gabriela Lopes,São Paulo,SP,Tablet,Mobile,2,2100,15,3570.0,1262.1,Mariana,Pix,5,Maio,2025
+346,2025-10-19,Thiago Rezende,Salvador,BA,HD Externo,Armazenamento,2,430,15,731.0,171.64,Patrícia,Cartão de Crédito,10,Outubro,2025
+347,2025-04-21,Pedro Santos,Rio de Janeiro,RJ,Webcam,Periféricos,1,240,0,240.0,107.17,Carlos,Boleto,4,Abril,2025
+348,2025-07-25,Juliana Almeida,Porto Alegre,RS,Cadeira Gamer,Móveis,5,1650,15,7012.5,2413.04,Felipe,Cartão de Débito,7,Julho,2025
+349,2025-03-21,Igor Mendes,Porto Alegre,RS,Mouse Gamer,Periféricos,1,180,5,171.0,35.3,Patrícia,Boleto,3,Março,2025
+350,2025-05-03,Ana Costa,Rio de Janeiro,RJ,Impressora,Escritório,3,870,15,2218.5,593.47,Juliana,Pix,5,Maio,2025
+351,2025-12-03,Elaine Duarte,Rio de Janeiro,RJ,Headset,Áudio,4,290,0,1160.0,432.31,Felipe,Pix,12,Dezembro,2025
+352,2025-06-27,Natália Barros,Belo Horizonte,MG,Notebook,Informática,1,4200,5,3990.0,1300.33,Renato,Cartão de Crédito,6,Junho,2025
+353,2025-01-16,Mariana Alves,Belo Horizonte,MG,HD Externo,Armazenamento,3,430,0,1290.0,331.71,Eduardo,Cartão de Débito,1,Janeiro,2025
+354,2025-09-19,Vanessa Pinto,Rio de Janeiro,RJ,Cadeira Gamer,Móveis,3,1650,0,4950.0,1613.52,Carlos,Boleto,9,Setembro,2025
+355,2025-02-22,Caio Peixoto,Belo Horizonte,MG,Impressora,Escritório,3,870,5,2479.5,957.63,Mariana,Cartão de Crédito,2,Fevereiro,2025
+356,2025-01-07,Amanda Cardoso,Brasília,DF,Smartphone,Mobile,1,3200,0,3200.0,753.05,Carlos,Boleto,1,Janeiro,2025
+357,2025-01-19,Débora Teixeira,Recife,PE,HD Externo,Armazenamento,2,430,5,817.0,177.46,Eduardo,Cartão de Crédito,1,Janeiro,2025
+358,2025-02-09,Caio Peixoto,Curitiba,PR,HD Externo,Armazenamento,4,430,10,1548.0,591.62,Patrícia,Pix,2,Fevereiro,2025
+359,2025-01-24,Paula Castro,São Paulo,SP,Cadeira Gamer,Móveis,2,1650,5,3135.0,780.35,Mariana,Boleto,1,Janeiro,2025
+360,2025-01-05,Vanessa Pinto,Porto Alegre,RS,SSD 1TB,Armazenamento,3,520,0,1560.0,486.29,Juliana,Cartão de Débito,1,Janeiro,2025
+361,2025-10-30,Gabriela Lopes,Porto Alegre,RS,Impressora,Escritório,5,870,5,4132.5,1380.33,Juliana,Cartão de Crédito,10,Outubro,2025
+362,2025-06-27,Arthur Monteiro,São Paulo,SP,Teclado Mecânico,Periféricos,4,350,0,1400.0,548.45,Carlos,Cartão de Débito,6,Junho,2025
+363,2025-05-02,Thiago Rezende,Recife,PE,Notebook,Informática,3,4200,0,12600.0,5023.64,Camila,Pix,5,Maio,2025
+364,2025-09-24,Thiago Rezende,Porto Alegre,RS,Teclado Mecânico,Periféricos,1,350,0,350.0,76.89,Patrícia,Boleto,9,Setembro,2025
+365,2025-11-23,Paula Castro,Rio de Janeiro,RJ,Smartphone,Mobile,5,3200,0,16000.0,5178.29,Mariana,Pix,11,Novembro,2025
+366,2025-06-11,Paula Castro,Belo Horizonte,MG,Headset,Áudio,2,290,10,522.0,200.84,Patrícia,Cartão de Débito,6,Junho,2025
+367,2025-03-11,Priscila Gomes,Porto Alegre,RS,Webcam,Periféricos,2,240,0,480.0,102.77,Mariana,Cartão de Crédito,3,Março,2025
+368,2025-03-03,Igor Mendes,Belo Horizonte,MG,Mouse Gamer,Periféricos,4,180,15,612.0,227.35,Patrícia,Cartão de Crédito,3,Março,2025
+369,2025-02-16,Bruno Martins,Porto Alegre,RS,Webcam,Periféricos,4,240,10,864.0,204.66,Renato,Pix,2,Fevereiro,2025
+370,2025-07-02,Paula Castro,Salvador,BA,Monitor 24,Monitores,2,980,0,1960.0,533.53,Carlos,Cartão de Débito,7,Julho,2025
+371,2025-10-12,Elaine Duarte,Belo Horizonte,MG,SSD 1TB,Armazenamento,1,520,15,442.0,104.47,Juliana,Pix,10,Outubro,2025
+372,2025-04-24,Ricardo Gomes,Rio de Janeiro,RJ,Webcam,Periféricos,2,240,0,480.0,214.57,Juliana,Boleto,4,Abril,2025
+373,2025-02-08,Maria Oliveira,Rio de Janeiro,RJ,HD Externo,Armazenamento,5,430,10,1935.0,426.94,Mariana,Cartão de Crédito,2,Fevereiro,2025
+374,2025-06-19,Fernanda Lima,Fortaleza,CE,Tablet,Mobile,2,2100,0,4200.0,939.67,Carlos,Boleto,6,Junho,2025
+375,2025-07-22,Gabriela Lopes,Belo Horizonte,MG,Notebook,Informática,5,4200,15,17850.0,4365.73,Carlos,Boleto,7,Julho,2025
+376,2025-04-06,Bianca Carvalho,Recife,PE,Tablet,Mobile,2,2100,10,3780.0,1498.09,Renato,Boleto,4,Abril,2025
+377,2025-09-13,Thiago Rezende,São Paulo,SP,Teclado Mecânico,Periféricos,5,350,5,1662.5,479.1,Camila,Pix,9,Setembro,2025
+378,2025-11-26,Natália Barros,Porto Alegre,RS,Mouse Gamer,Periféricos,4,180,5,684.0,236.11,Juliana,Pix,11,Novembro,2025
+379,2025-10-17,Henrique Duarte,Salvador,BA,Headset,Áudio,4,290,15,986.0,358.9,Patrícia,Boleto,10,Outubro,2025
+380,2025-01-16,Priscila Gomes,Belo Horizonte,MG,SSD 1TB,Armazenamento,1,520,10,468.0,140.74,Renato,Pix,1,Janeiro,2025
+381,2025-02-21,Amanda Cardoso,Brasília,DF,Webcam,Periféricos,3,240,5,684.0,141.25,Juliana,Cartão de Débito,2,Fevereiro,2025
+382,2025-03-30,Patrícia Ribeiro,São Paulo,SP,Cadeira Gamer,Móveis,2,1650,15,2805.0,1013.44,Juliana,Cartão de Débito,3,Março,2025
+383,2025-06-30,Caio Peixoto,Salvador,BA,Smartphone,Mobile,5,3200,0,16000.0,4386.19,Felipe,Cartão de Crédito,6,Junho,2025
+384,2025-02-16,Ana Costa,Brasília,DF,Webcam,Periféricos,3,240,5,684.0,223.94,Juliana,Cartão de Crédito,2,Fevereiro,2025
+385,2025-11-11,Eduardo Barbosa,Brasília,DF,Notebook,Informática,4,4200,0,16800.0,6166.72,Felipe,Cartão de Débito,11,Novembro,2025
+386,2025-10-28,Cristina Neves,Belo Horizonte,MG,Smartphone,Mobile,3,3200,0,9600.0,4267.41,Felipe,Pix,10,Outubro,2025
+387,2025-12-06,Paula Castro,Salvador,BA,Cadeira Gamer,Móveis,1,1650,10,1485.0,406.69,Mariana,Cartão de Débito,12,Dezembro,2025
+388,2025-08-12,Arthur Monteiro,Salvador,BA,SSD 1TB,Armazenamento,2,520,5,988.0,263.71,Camila,Cartão de Débito,8,Agosto,2025
+389,2025-10-29,Patrícia Ribeiro,Brasília,DF,Teclado Mecânico,Periféricos,5,350,10,1575.0,620.85,Eduardo,Cartão de Débito,10,Outubro,2025
+390,2025-12-26,Caio Peixoto,Porto Alegre,RS,Smartphone,Mobile,2,3200,5,6080.0,1628.18,Eduardo,Pix,12,Dezembro,2025
+391,2025-02-23,Gabriela Lopes,Campinas,SP,Teclado Mecânico,Periféricos,3,350,5,997.5,289.36,Felipe,Cartão de Débito,2,Fevereiro,2025
+392,2025-03-27,Arthur Monteiro,Rio de Janeiro,RJ,Smartphone,Mobile,2,3200,10,5760.0,1177.37,Mariana,Cartão de Débito,3,Março,2025
+393,2025-02-04,Renato Freitas,São Paulo,SP,Webcam,Periféricos,3,240,5,684.0,265.13,Renato,Pix,2,Fevereiro,2025
+394,2025-08-03,Bruno Martins,São Paulo,SP,Smartphone,Mobile,1,3200,15,2720.0,926.01,Eduardo,Boleto,8,Agosto,2025
+395,2025-09-03,Caio Peixoto,Salvador,BA,Headset,Áudio,5,290,15,1232.5,523.37,Juliana,Cartão de Crédito,9,Setembro,2025
+396,2025-05-14,Carlos Souza,Rio de Janeiro,RJ,Webcam,Periféricos,1,240,10,216.0,96.12,Mariana,Cartão de Débito,5,Maio,2025
+397,2025-02-17,Mariana Alves,Recife,PE,Teclado Mecânico,Periféricos,2,350,0,700.0,219.27,Camila,Pix,2,Fevereiro,2025
+398,2025-02-21,Mariana Alves,Belo Horizonte,MG,Headset,Áudio,5,290,15,1232.5,506.22,Juliana,Cartão de Crédito,2,Fevereiro,2025
+399,2025-06-02,Amanda Cardoso,Brasília,DF,Headset,Áudio,5,290,10,1305.0,371.73,Mariana,Pix,6,Junho,2025
+400,2025-07-04,João Silva,Campinas,SP,Headset,Áudio,5,290,15,1232.5,507.3,Eduardo,Pix,7,Julho,2025
+401,2025-04-16,Bruno Martins,Campinas,SP,SSD 1TB,Armazenamento,4,520,5,1976.0,841.29,Renato,Pix,4,Abril,2025
+402,2025-12-05,Gustavo Nunes,Rio de Janeiro,RJ,Webcam,Periféricos,3,240,15,612.0,203.35,Mariana,Boleto,12,Dezembro,2025
+403,2025-01-23,Gustavo Nunes,Salvador,BA,Teclado Mecânico,Periféricos,4,350,10,1260.0,508.23,Camila,Boleto,1,Janeiro,2025
+404,2025-12-23,Daniel Aguiar,Curitiba,PR,SSD 1TB,Armazenamento,3,520,0,1560.0,643.06,Mariana,Pix,12,Dezembro,2025
+405,2025-10-29,Felipe Araújo,Salvador,BA,Tablet,Mobile,5,2100,15,8925.0,1850.36,Carlos,Boleto,10,Outubro,2025
+406,2025-05-01,Vinicius Tavares,Recife,PE,Cadeira Gamer,Móveis,5,1650,15,7012.5,2151.59,Renato,Pix,5,Maio,2025
+407,2025-08-18,Patrícia Ribeiro,São Paulo,SP,Headset,Áudio,5,290,5,1377.5,578.45,Felipe,Cartão de Crédito,8,Agosto,2025
+408,2025-12-16,Aline Moura,Belo Horizonte,MG,Monitor 24,Monitores,1,980,15,833.0,358.53,Juliana,Cartão de Crédito,12,Dezembro,2025
+409,2025-10-12,Paula Castro,Porto Alegre,RS,Impressora,Escritório,3,870,0,2610.0,1117.71,Patrícia,Cartão de Débito,10,Outubro,2025
+410,2025-03-18,Camila Rocha,Fortaleza,CE,Cadeira Gamer,Móveis,1,1650,15,1402.5,591.67,Mariana,Pix,3,Março,2025
+411,2025-05-16,Rafael Moraes,Rio de Janeiro,RJ,Impressora,Escritório,3,870,10,2349.0,541.51,Camila,Boleto,5,Maio,2025
+412,2025-11-08,Letícia Ramos,Belo Horizonte,MG,Notebook,Informática,3,4200,15,10710.0,4434.33,Eduardo,Pix,11,Novembro,2025
+413,2025-05-18,Vanessa Pinto,Salvador,BA,Headset,Áudio,2,290,0,580.0,152.87,Carlos,Cartão de Débito,5,Maio,2025
+414,2025-12-17,Carlos Souza,Porto Alegre,RS,SSD 1TB,Armazenamento,3,520,15,1326.0,312.2,Juliana,Cartão de Crédito,12,Dezembro,2025
+415,2025-11-06,Cláudia Figueiredo,Fortaleza,CE,SSD 1TB,Armazenamento,3,520,10,1404.0,375.99,Mariana,Cartão de Crédito,11,Novembro,2025
+416,2025-07-11,Ana Costa,Curitiba,PR,Webcam,Periféricos,4,240,15,816.0,212.26,Felipe,Pix,7,Julho,2025
+417,2025-09-26,Caio Peixoto,Brasília,DF,SSD 1TB,Armazenamento,4,520,5,1976.0,503.62,Carlos,Cartão de Crédito,9,Setembro,2025
+418,2025-01-26,Vanessa Pinto,Curitiba,PR,Monitor 24,Monitores,1,980,5,931.0,411.25,Juliana,Cartão de Débito,1,Janeiro,2025
+419,2025-03-05,Letícia Ramos,Fortaleza,CE,HD Externo,Armazenamento,5,430,15,1827.5,532.07,Carlos,Cartão de Crédito,3,Março,2025
+420,2025-08-31,Luana Ribeiro,Fortaleza,CE,HD Externo,Armazenamento,5,430,15,1827.5,741.24,Patrícia,Cartão de Débito,8,Agosto,2025
+421,2025-01-26,Bruno Martins,Porto Alegre,RS,Teclado Mecânico,Periféricos,1,350,10,315.0,139.59,Juliana,Cartão de Crédito,1,Janeiro,2025
+422,2025-09-20,Maria Oliveira,Curitiba,PR,Tablet,Mobile,2,2100,10,3780.0,1085.25,Carlos,Boleto,9,Setembro,2025
+423,2025-11-08,Isabela Fernandes,Belo Horizonte,MG,Teclado Mecânico,Periféricos,5,350,0,1750.0,689.6,Renato,Boleto,11,Novembro,2025
+424,2025-06-04,Letícia Ramos,Salvador,BA,Headset,Áudio,4,290,10,1044.0,412.85,Eduardo,Pix,6,Junho,2025
+425,2025-02-25,Vinicius Tavares,Brasília,DF,Notebook,Informática,3,4200,10,11340.0,4256.82,Mariana,Cartão de Débito,2,Fevereiro,2025
+426,2025-11-30,Isabela Fernandes,Salvador,BA,SSD 1TB,Armazenamento,3,520,10,1404.0,401.5,Juliana,Cartão de Crédito,11,Novembro,2025
+427,2025-12-15,Ricardo Gomes,Curitiba,PR,Cadeira Gamer,Móveis,1,1650,15,1402.5,399.53,Carlos,Boleto,12,Dezembro,2025
+428,2025-01-19,Luana Ribeiro,Porto Alegre,RS,SSD 1TB,Armazenamento,4,520,15,1768.0,623.98,Juliana,Cartão de Débito,1,Janeiro,2025
+429,2025-12-10,Renato Freitas,Curitiba,PR,Smartphone,Mobile,5,3200,15,13600.0,3037.81,Renato,Cartão de Crédito,12,Dezembro,2025
+430,2025-03-07,Elaine Duarte,Brasília,DF,Tablet,Mobile,2,2100,10,3780.0,1608.77,Renato,Cartão de Crédito,3,Março,2025
+431,2025-06-07,Thiago Rezende,Salvador,BA,Tablet,Mobile,1,2100,5,1995.0,720.55,Patrícia,Cartão de Débito,6,Junho,2025
+432,2025-08-29,Ana Costa,Campinas,SP,SSD 1TB,Armazenamento,3,520,15,1326.0,314.52,Mariana,Boleto,8,Agosto,2025
+433,2025-07-31,Ana Costa,Brasília,DF,Monitor 24,Monitores,1,980,15,833.0,264.51,Felipe,Cartão de Crédito,7,Julho,2025
+434,2025-04-03,Priscila Gomes,Salvador,BA,Monitor 24,Monitores,4,980,15,3332.0,1380.09,Mariana,Boleto,4,Abril,2025
+435,2025-05-21,Larissa Melo,Belo Horizonte,MG,HD Externo,Armazenamento,3,430,0,1290.0,578.98,Felipe,Cartão de Crédito,5,Maio,2025
+436,2025-07-26,Aline Moura,Rio de Janeiro,RJ,Webcam,Periféricos,2,240,15,408.0,118.98,Camila,Boleto,7,Julho,2025
+437,2025-01-08,Diego Moreira,São Paulo,SP,Notebook,Informática,5,4200,5,19950.0,5333.34,Juliana,Pix,1,Janeiro,2025
+438,2025-06-26,Isabela Fernandes,São Paulo,SP,Tablet,Mobile,2,2100,5,3990.0,1103.71,Felipe,Pix,6,Junho,2025
+439,2025-01-24,Isabela Fernandes,Brasília,DF,Headset,Áudio,5,290,10,1305.0,532.76,Renato,Boleto,1,Janeiro,2025
+440,2025-12-18,Ricardo Gomes,Brasília,DF,Smartphone,Mobile,5,3200,10,14400.0,4918.81,Patrícia,Boleto,12,Dezembro,2025
+441,2025-04-25,Victor Braga,Curitiba,PR,HD Externo,Armazenamento,2,430,15,731.0,325.45,Felipe,Cartão de Crédito,4,Abril,2025
+442,2025-12-31,Cláudia Figueiredo,São Paulo,SP,Smartphone,Mobile,5,3200,5,15200.0,6371.98,Carlos,Boleto,12,Dezembro,2025
+443,2025-01-25,Daniel Aguiar,Porto Alegre,RS,Tablet,Mobile,5,2100,0,10500.0,3165.95,Mariana,Pix,1,Janeiro,2025
+444,2025-10-08,Gustavo Nunes,Rio de Janeiro,RJ,Notebook,Informática,4,4200,15,14280.0,5068.49,Camila,Cartão de Crédito,10,Outubro,2025
+445,2025-12-06,Natália Barros,São Paulo,SP,Monitor 24,Monitores,3,980,15,2499.0,711.18,Renato,Cartão de Crédito,12,Dezembro,2025
+446,2025-02-24,Gabriela Lopes,Rio de Janeiro,RJ,Headset,Áudio,5,290,0,1450.0,550.02,Juliana,Cartão de Crédito,2,Fevereiro,2025
+447,2025-06-01,Bruno Martins,Brasília,DF,SSD 1TB,Armazenamento,2,520,10,936.0,256.6,Carlos,Boleto,6,Junho,2025
+448,2025-12-10,Juliana Almeida,Fortaleza,CE,Monitor 24,Monitores,3,980,5,2793.0,1254.94,Mariana,Boleto,12,Dezembro,2025
+449,2025-02-21,Gustavo Nunes,Rio de Janeiro,RJ,Teclado Mecânico,Periféricos,5,350,0,1750.0,470.94,Juliana,Boleto,2,Fevereiro,2025
+450,2025-03-31,Pedro Santos,Porto Alegre,RS,SSD 1TB,Armazenamento,4,520,0,2080.0,884.1,Renato,Cartão de Débito,3,Março,2025
+451,2025-01-24,João Silva,Salvador,BA,Tablet,Mobile,4,2100,0,8400.0,3580.5,Felipe,Cartão de Crédito,1,Janeiro,2025
+452,2025-02-17,Vanessa Pinto,Salvador,BA,HD Externo,Armazenamento,4,430,10,1548.0,356.63,Patrícia,Cartão de Crédito,2,Fevereiro,2025
+453,2025-07-17,Samuel Cunha,Recife,PE,Mouse Gamer,Periféricos,4,180,15,612.0,233.81,Camila,Boleto,7,Julho,2025
+454,2025-01-31,Bruno Martins,Belo Horizonte,MG,Tablet,Mobile,1,2100,5,1995.0,550.54,Mariana,Boleto,1,Janeiro,2025
+455,2025-07-14,Priscila Gomes,Fortaleza,CE,Impressora,Escritório,5,870,15,3697.5,1496.32,Patrícia,Pix,7,Julho,2025
+456,2025-07-30,Leonardo Vieira,Belo Horizonte,MG,Tablet,Mobile,4,2100,15,7140.0,3011.41,Carlos,Pix,7,Julho,2025
+457,2025-12-09,Mariana Alves,Salvador,BA,SSD 1TB,Armazenamento,1,520,5,494.0,101.53,Mariana,Boleto,12,Dezembro,2025
+458,2025-11-25,Rafael Moraes,Curitiba,PR,Tablet,Mobile,4,2100,10,7560.0,2147.59,Felipe,Pix,11,Novembro,2025
+459,2025-03-26,Lucas Ferreira,Belo Horizonte,MG,Notebook,Informática,5,4200,15,17850.0,4231.02,Camila,Cartão de Débito,3,Março,2025
+460,2025-10-09,Cláudia Figueiredo,Salvador,BA,Monitor 24,Monitores,3,980,0,2940.0,950.41,Eduardo,Boleto,10,Outubro,2025
+461,2025-08-18,Juliana Almeida,Rio de Janeiro,RJ,Monitor 24,Monitores,4,980,15,3332.0,831.95,Camila,Boleto,8,Agosto,2025
+462,2025-07-31,Pedro Santos,Rio de Janeiro,RJ,HD Externo,Armazenamento,4,430,0,1720.0,729.86,Carlos,Pix,7,Julho,2025
+463,2025-08-22,Mariana Alves,Campinas,SP,Impressora,Escritório,3,870,5,2479.5,710.01,Patrícia,Pix,8,Agosto,2025
+464,2025-07-06,Cristina Neves,Fortaleza,CE,Monitor 24,Monitores,3,980,15,2499.0,676.82,Camila,Pix,7,Julho,2025
+465,2025-11-21,Matheus Dias,Curitiba,PR,Mouse Gamer,Periféricos,1,180,10,162.0,58.52,Patrícia,Pix,11,Novembro,2025
+466,2025-07-29,Carlos Souza,Belo Horizonte,MG,Notebook,Informática,4,4200,5,15960.0,3902.86,Renato,Cartão de Crédito,7,Julho,2025
+467,2025-04-08,Cristina Neves,Rio de Janeiro,RJ,Monitor 24,Monitores,4,980,5,3724.0,1250.29,Patrícia,Pix,4,Abril,2025
+468,2025-08-19,Beatriz Campos,São Paulo,SP,Headset,Áudio,5,290,0,1450.0,372.6,Felipe,Boleto,8,Agosto,2025
+469,2025-09-05,Henrique Duarte,Brasília,DF,Notebook,Informática,1,4200,15,3570.0,857.86,Felipe,Cartão de Crédito,9,Setembro,2025
+470,2025-11-07,Diego Moreira,Belo Horizonte,MG,Smartphone,Mobile,1,3200,15,2720.0,776.89,Eduardo,Boleto,11,Novembro,2025
+471,2025-05-31,Leonardo Vieira,Curitiba,PR,Impressora,Escritório,3,870,15,2218.5,463.89,Felipe,Cartão de Crédito,5,Maio,2025
+472,2025-10-08,Diego Moreira,Campinas,SP,Headset,Áudio,5,290,10,1305.0,312.2,Juliana,Cartão de Crédito,10,Outubro,2025
+473,2025-03-09,Cristina Neves,Campinas,SP,Monitor 24,Monitores,3,980,10,2646.0,581.33,Felipe,Cartão de Débito,3,Março,2025
+474,2025-12-08,Cristina Neves,Rio de Janeiro,RJ,Smartphone,Mobile,3,3200,15,8160.0,2483.08,Eduardo,Cartão de Débito,12,Dezembro,2025
+475,2025-03-16,Ana Costa,São Paulo,SP,Headset,Áudio,5,290,0,1450.0,643.34,Carlos,Cartão de Crédito,3,Março,2025
+476,2025-02-01,Samuel Cunha,Belo Horizonte,MG,SSD 1TB,Armazenamento,3,520,10,1404.0,580.4,Renato,Cartão de Crédito,2,Fevereiro,2025
+477,2025-12-12,Elaine Duarte,São Paulo,SP,Cadeira Gamer,Móveis,3,1650,15,4207.5,1785.58,Juliana,Boleto,12,Dezembro,2025
+478,2025-07-18,Thiago Rezende,Brasília,DF,Monitor 24,Monitores,3,980,0,2940.0,642.03,Patrícia,Pix,7,Julho,2025
+479,2025-11-21,Cristina Neves,Porto Alegre,RS,Notebook,Informática,2,4200,15,7140.0,1731.48,Patrícia,Cartão de Crédito,11,Novembro,2025
+480,2025-12-16,Lucas Ferreira,Curitiba,PR,Smartphone,Mobile,3,3200,15,8160.0,3310.05,Felipe,Cartão de Crédito,12,Dezembro,2025
+481,2025-05-23,Débora Teixeira,Brasília,DF,Smartphone,Mobile,1,3200,15,2720.0,1196.37,Renato,Cartão de Crédito,5,Maio,2025
+482,2025-12-30,Camila Rocha,Campinas,SP,Teclado Mecânico,Periféricos,3,350,0,1050.0,385.73,Carlos,Cartão de Crédito,12,Dezembro,2025
+483,2025-10-21,Débora Teixeira,Campinas,SP,HD Externo,Armazenamento,1,430,10,387.0,126.69,Patrícia,Pix,10,Outubro,2025
+484,2025-09-24,Lucas Ferreira,Salvador,BA,Smartphone,Mobile,5,3200,5,15200.0,3203.45,Felipe,Boleto,9,Setembro,2025
+485,2025-04-20,Daniel Aguiar,Brasília,DF,Cadeira Gamer,Móveis,4,1650,0,6600.0,2393.49,Patrícia,Cartão de Débito,4,Abril,2025
+486,2025-11-29,João Silva,Porto Alegre,RS,HD Externo,Armazenamento,2,430,15,731.0,146.82,Mariana,Cartão de Débito,11,Novembro,2025
+487,2025-12-16,Diego Moreira,Curitiba,PR,Webcam,Periféricos,5,240,5,1140.0,239.71,Eduardo,Pix,12,Dezembro,2025
+488,2025-09-22,Priscila Gomes,Porto Alegre,RS,Headset,Áudio,5,290,10,1305.0,579.19,Patrícia,Boleto,9,Setembro,2025
+489,2025-02-12,Carlos Souza,São Paulo,SP,Webcam,Periféricos,3,240,5,684.0,253.03,Felipe,Pix,2,Fevereiro,2025
+490,2025-08-06,Carlos Souza,Rio de Janeiro,RJ,Tablet,Mobile,2,2100,5,3990.0,932.71,Juliana,Boleto,8,Agosto,2025
+491,2025-06-19,Pedro Santos,Rio de Janeiro,RJ,Tablet,Mobile,2,2100,0,4200.0,1407.81,Mariana,Pix,6,Junho,2025
+492,2025-04-27,Gustavo Nunes,Belo Horizonte,MG,Notebook,Informática,3,4200,0,12600.0,3858.87,Eduardo,Boleto,4,Abril,2025
+493,2025-12-11,Fernanda Lima,Recife,PE,Webcam,Periféricos,4,240,10,864.0,385.15,Carlos,Pix,12,Dezembro,2025
+494,2025-09-15,Carlos Souza,Campinas,SP,Smartphone,Mobile,1,3200,0,3200.0,1153.84,Renato,Cartão de Débito,9,Setembro,2025
+495,2025-12-05,Maria Oliveira,Rio de Janeiro,RJ,Impressora,Escritório,3,870,15,2218.5,786.78,Camila,Cartão de Crédito,12,Dezembro,2025
+496,2025-10-07,Matheus Dias,Curitiba,PR,Cadeira Gamer,Móveis,2,1650,15,2805.0,703.51,Felipe,Cartão de Débito,10,Outubro,2025
+497,2025-01-03,Caio Peixoto,Salvador,BA,Tablet,Mobile,1,2100,5,1995.0,836.29,Eduardo,Pix,1,Janeiro,2025
+498,2025-11-27,Henrique Duarte,Curitiba,PR,SSD 1TB,Armazenamento,3,520,5,1482.0,514.01,Felipe,Cartão de Crédito,11,Novembro,2025
+499,2025-04-03,Daniel Aguiar,Curitiba,PR,Teclado Mecânico,Periféricos,5,350,10,1575.0,632.23,Carlos,Boleto,4,Abril,2025
+500,2025-05-09,Carlos Souza,Brasília,DF,Tablet,Mobile,1,2100,10,1890.0,533.13,Juliana,Boleto,5,Maio,2025
